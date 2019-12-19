@@ -32,6 +32,11 @@ CREATE TABLE `akun` (
   `password` varchar(200) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+CREATE TABLE `datauser` (
+  `id` int(11) NOT NULL,
+  `fullname` varchar(200) NOT NULL,
+  `address` varchar(200) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 --
 -- Dumping data for table `akun`
 --
