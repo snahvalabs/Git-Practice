@@ -38,7 +38,8 @@ CREATE TABLE `akun` (
 
 INSERT INTO `akun` (`id`, `username`, `password`) VALUES
 (2, 'yon', '7c4a8d09ca3762af61e59520943dc26494f8941b'),
-(3, 'sani', '7c4a8d09ca3762af61e59520943dc26494f8941b');
+(3, 'sani', '7c4a8d09ca3762af61e59520943dc26494f8941b'),
+(4, 'sania', '7c4a8d09ca3762af61e59520943dc26494f8941b');
 
 --
 -- Indexes for dumped tables
